@@ -1,7 +1,7 @@
 # Dictionary App using ReactJS
 
 This is a simple dictionary application built using ReactJS. The app allows users to search for the definition, part of speech, phonetics, and examples of a given word. 
-
+open the dictionary app to search the meaning -"https://englishdictionary01.netlify.app/"
 ## Features
 
 - Search for word definitions.
